@@ -1,4 +1,4 @@
-# Inventory Pro : Architect and Programming Portfolio
+# InventoryPro : Architect and Programming Portfolio
 
 The Inventory Pro Android application was built to assist a user with managing a simple inventory. The app enables the user to create an item, read them from the database, update and delete them when necessary. The target users are homeowners, small business owners, collectors, e-commerce, etc.
 
